@@ -1,2 +1,2 @@
-# Class40
-In this class I added a reset button to the car racing game.
+# CarRacingGame1.0
+Car Racing Game Stage 1.0
